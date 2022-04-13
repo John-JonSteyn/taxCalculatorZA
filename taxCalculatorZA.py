@@ -136,7 +136,7 @@ print('The tax you pay is equal to:\t\t\t{0:.2f}%'.format(taxPerc))
 # Disclaimer
 print('\nNote: Results do not cater for all scenarios and should be used as an indicator only.')
 print('Based on SARS\' tax pocket guide provides a synopsis of the most important tax, duty and levy related information for 2022/23')
-print('For more information please visit https://github.com/Bearded-Viking/TaxCalCulatorZA')
+print('For more information please visit https://github.com/Bearded-Viking/taxCalCulatorZA')
 
 # End
 for i in range(125):
