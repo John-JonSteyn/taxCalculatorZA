@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <a href="https://github.com/Bearded-Viking/TaskFlow/">
-    <img src="images/logo.png" alt="Logo" width="576" height="360">
+    <img src="images/logo.png" alt="Logo" height="360">
   </a>
 
   <h3 align="center">Based on SARS's tax pocket guide for 2022/23</h3>
