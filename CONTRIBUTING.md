@@ -25,5 +25,5 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Bearded-Viking/taxCalculatorZA.svg?style=for-the-badge&color=brightgreen
+[contributors-shield]: https://img.shields.io/github/contributors/Bearded-Viking/taxCalculatorZA.svg?style=for-the-badge&color=009338
 [contributors-url]: https://github.com/Bearded-Viking/taxCalculatorZA/graphs/contributors
